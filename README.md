@@ -3,7 +3,7 @@ An official implementation of "Physically Disentangled Intra- and Inter-domain A
 
 ### News
 1. We have released the proposed **VHD: Varicolored Haze Dataset** in PDI2A.
-2. The proposed **VHD: Varicolored Haze Dataset** can be download via 链接：https://pan.baidu.com/s/1soNI1m39vYIcUgpPOKoUpg (Code: jvit)
+2. The proposed **VHD: Varicolored Haze Dataset** can be download via：https://pan.baidu.com/s/1soNI1m39vYIcUgpPOKoUpg (Code: jvit)
 
 ### Citation
 If you use VHD: Varicolored Haze Dataset or the code of PDI2A in your work, please cite our publication as listed.
