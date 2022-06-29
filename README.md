@@ -1,6 +1,9 @@
 # PDI2A-CVPR2022
 An official implementation of "Physically Disentangled Intra- and Inter-domain Adaptation for Varicolored Haze Removal" (2022 CVPR)
 
+### Note
+We are sorting out the code of the proposed PDI2A, and we will release the source code in the next few weeks. Please stay tuned for our work!
+
 ### News
 1. We have released the proposed **VHD: Varicolored Haze Dataset** in PDI2A.
 2. The proposed **VHD: Varicolored Haze Dataset** can be download via：https://pan.baidu.com/s/1soNI1m39vYIcUgpPOKoUpg (Code: jvit)
