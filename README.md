@@ -6,7 +6,9 @@ We are sorting out the code of the proposed PDI2A, and we will release the sourc
 
 ### News
 1. We have released the proposed **VHD: Varicolored Haze Dataset** in PDI2A.
-2. The proposed **VHD: Varicolored Haze Dataset** can be download via：https://pan.baidu.com/s/1soNI1m39vYIcUgpPOKoUpg (Code: jvit)
+2. The proposed **VHD: Varicolored Haze Dataset** can be download via both：
+   BaiduYun:https://pan.baidu.com/s/1soNI1m39vYIcUgpPOKoUpg (Code: jvit)
+   and GoogleDrive:https://drive.google.com/file/d/1MWD60s8gnd-3Nq-NE7b5VfZ1F1ZOgfVg/view?usp=sharing
 
 ### Citation
 If you use VHD: Varicolored Haze Dataset or the code of PDI2A in your work, please cite our publication as listed.
